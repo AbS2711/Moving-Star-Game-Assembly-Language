@@ -1,0 +1,16 @@
+# --- Executables ---
+*.com
+*.exe
+*.bin
+
+# --- Build Artifacts ---
+*.obj
+*.o
+*.lst
+*.map
+
+# --- OS/Editor specifics ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/ 
